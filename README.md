@@ -1,2 +1,2 @@
 # Text-to-speech
-Text to speech project
+A python language project to perform text to speech conversion using the gTTs library
